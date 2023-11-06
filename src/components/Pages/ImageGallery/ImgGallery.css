@@ -1,0 +1,25 @@
+.container-body{
+   border:2px solid red;
+   margin:3rem 10rem 0 9rem;
+   height:900px;
+
+}
+
+
+
+
+
+
+
+
+
+.header-part{
+   display: flex;
+   justify-content: space-between;
+   margin:3rem 10rem 0 9rem;
+   padding:0.1rem 0.1rem 0.1rem;
+   align-items: center;
+   border-radius: 20px;
+   border-bottom:2px solid rgb(121, 109, 109);
+}
+

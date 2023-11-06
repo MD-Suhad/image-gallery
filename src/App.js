@@ -1,5 +1,5 @@
 import './App.css';
-import ImgGallery from './components/ImageGallery/ImgGallery';
+import ImgGallery from './components/Pages/ImageGallery/ImgGallery';
 
 function App() {
   return (
